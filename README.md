@@ -1,7 +1,2 @@
 # jenkins-ci-cd  
-#Hi 
-#HI
-#Hi this is abhijit
-#Hi this is Abhijit
-#Hi
-#HI
+# Force trigger test
